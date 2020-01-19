@@ -1,0 +1,7 @@
+# Dynamics Scripts, which are simple and understandable
+
+## cornerflow_stress.ipynb
+
+*Contributer: Magali*
+
+good-to-know flow field in a simple setting
